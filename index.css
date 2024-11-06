@@ -4,7 +4,7 @@ body {
 	background: #ddd;
 	overflow: hidden;
 	height: 100%;
-	aspect-ratio: 4:3;
+	aspect-ratio: 4 / 3;
 }
 
 /*
