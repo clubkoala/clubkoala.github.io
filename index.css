@@ -919,7 +919,7 @@ input[type="radio"] {
 	background: url(res/select03.png);
 	background-position: 0 0;
 	width: 256px;
-	height: 68px;
+	height: 48px;
 	margin-top: 32px;
 	margin-left: 192px;
 	-webkit-transform: translateY(-100px);
@@ -990,7 +990,7 @@ input[type="radio"] {
 	display: block;
 	cursor: pointer;
 	width: 256px;
-	height: 68px;
+	height: 45px;
 	opacity: 0.5;
 	-webkit-transition: -webkit-transform ease 0.4s;
 	    -ms-transition:     -ms-transform ease 0.4s;
