@@ -1,1 +1,3 @@
-quit game still doesnt work(ascii asset in index.css)
+aquire english ascii.png and asciis.png
+finish menu translation images
+finish text translations
