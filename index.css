@@ -919,7 +919,7 @@ input[type="radio"] {
 	background: url(res/select03.png);
 	background-position: 0 0;
 	width: 256px;
-	height: 48px;
+	height: 68px;
 	margin-top: 32px;
 	margin-left: 192px;
 	-webkit-transform: translateY(-100px);
@@ -970,9 +970,9 @@ input[type="radio"] {
 
 .select-bomb .select-title {
 	background: url(res/select03.png);
-	background-position: 0 -48px;
+	background-position: 0 -68px;
 	width: 256px;
-	height: 48px;
+	height: 68px;
 	margin-top: 96px;
 	margin-left: 360px;
 	margin-bottom: 58px;
