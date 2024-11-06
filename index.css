@@ -990,7 +990,7 @@ input[type="radio"] {
 	display: block;
 	cursor: pointer;
 	width: 256px;
-	height: 48px;
+	height: 68px;
 	opacity: 0.5;
 	-webkit-transition: -webkit-transform ease 0.4s;
 	    -ms-transition:     -ms-transform ease 0.4s;
