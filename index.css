@@ -3,10 +3,8 @@ body {
 	padding: 0;
 	background: #ddd;
 	overflow: hidden;
-	height: 100vh;
 	aspect-ratio: 4 / 3;
-	padding-top: -5%;
-	position: center;
+	object-fit: fill;
 }
 
 /*
