@@ -1,3 +1,2 @@
 aquire english ascii.png and asciis.png
-finish menu translation images
 finish text translations
