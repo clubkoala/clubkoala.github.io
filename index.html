@@ -410,6 +410,16 @@
 			});
 		})
 	</script>
+	<script id="autofit">
+		function autoResize(){
+			const deviceHeight = window.innerHeight;
+			const pageHeight = document.body.scrollHeight
+			const scaleLevel = deviceHeight / pageHeight;
+			document.body.style.transform = `scale(${scaleLevel})`;
+		}
+		window.addEventListener('resize', autoResize);
+		window.addEventListener('load', autoResize);
+	</script>
 	<!-- fill some canvas -->
 	<script id="gen_fill">
 		(function(RES) {
